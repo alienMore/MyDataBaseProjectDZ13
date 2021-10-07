@@ -149,6 +149,7 @@ cat <<EOF>> employee.txt
 300     RajP    Developer
 EOF
 #между значениями в строке обязательно \t иначе не работает
+#Имя файла соответствовать должно названию таблицы
 
 mysql> SET GLOBAL local_infile=1;
 ---
