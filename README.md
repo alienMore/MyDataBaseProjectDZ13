@@ -1,5 +1,5 @@
 <h1 align="center">ДЗ 13</h1>
-<h1 align="center">MySQL tranzaction</h1>
+<h1 align="center">MySQL transaction</h1>
 
 ---
 ### Create table ###
